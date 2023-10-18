@@ -1,7 +1,8 @@
-Assembly-CSharp.csproj/
 Library/
-My\ project.sln/
-ProjectSettings/
 Logs/
 Packages/
+ProjectSettings/
 UserSettings/
+.vscode/
+*.sln
+*.csproj
